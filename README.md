@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 
-<img alt="ade" width="600px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+<img align="center" alt="ade" width="600px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyohanaazekasiahaan&show_icons=true&locale=en" alt="adeyohanaazekasiahaan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeyohanaazekasiahaan&" alt="adeyohanaazekasiahaan" /></p>
+
