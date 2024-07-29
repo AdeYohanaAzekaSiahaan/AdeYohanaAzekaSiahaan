@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adeshnn17@gmail.com**
 
-- ⚡ Fun fact **I'm still a student**
+- ⚡ Fun fact **u need to sleep 8 hours a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
