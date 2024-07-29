@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-<img align="center" alt="ade" width="600px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+<img align="center" alt="ade" width="800px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 
 
