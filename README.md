@@ -1,10 +1,8 @@
 <h1 align="center">Hi there👋</h1>
 
-<img align = "right" alt="ade" width="400" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+<img align="right" alt="ade" width="400" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 <h3 align="center">I am working towards becoming a full-stack developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeyohanaazekasiahaan&label=Profile%20views&color=0e75b6&style=flat" alt="adeyohanaazekasiahaan" /> </p>
 
 - 💬 Ask me about **anything**
 
