@@ -1,6 +1,16 @@
 <h1 align="center">Hi there👋</h1>
 
-<img align="center" alt="ade" width="700" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+    <style>
+        .container {
+            display: grid;
+            place-items: center;
+            height: 100vh; /* Tinggi 100% dari viewport */
+        }
+    </style>
+
+    <div class="container">
+        <img src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png" alt="ade" width="400">
+    </div>
 
 
 <h3 align="center">I am working towards becoming a full-stack developer.</h3>
