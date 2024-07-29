@@ -25,7 +25,7 @@
 " alt="Pinteresr" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeyohanaazekasiahaan&show_icons=true&locale=en&layout=compact" alt="adeyohanaazekasiahaan" /></p>
+<p><i class="fa-brands fa-pinterest"></i><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeyohanaazekasiahaan&show_icons=true&locale=en&layout=compact" alt="adeyohanaazekasiahaan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyohanaazekasiahaan&show_icons=true&locale=en" alt="adeyohanaazekasiahaan" /></p>
 
