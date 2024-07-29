@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋</h1>
-![alt text](https://github.com/AdeYohanaAzekaSiahaan/Merket-sistem/blob/master/Market%20System.png](https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png?raw=true)
+
+<p>![alt text](https://github.com/AdeYohanaAzekaSiahaan/Merket-sistem/blob/master/Market%20System.png](https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png?raw=true)</p>
 
 <h3 align="center">I am working towards becoming a full-stack developer.</h3>
 
