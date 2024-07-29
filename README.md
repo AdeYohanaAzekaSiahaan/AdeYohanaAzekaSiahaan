@@ -21,8 +21,7 @@
 
 <h3 align="left">My pin <3:</h3>
 <p align="left">
-<a href="https://pin.it/4k2GSSbVP" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/45a60a36-7265-4938-a465-844b8e61942d)
-" alt="Pinteresr" height="30" width="40" /></a>
+<a href="https://pin.it/4k2GSSbVP" alt="Pinterest" target="blank"></a>
 </p>
 
 <p><i class="fa-brands fa-pinterest"></i><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeyohanaazekasiahaan&show_icons=true&locale=en&layout=compact" alt="adeyohanaazekasiahaan" /></p>
