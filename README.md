@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 
-<img align="center" alt="ade" width="400" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png" style="float: center;">
+<img align="center" alt="ade" width="700px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png"">
 
 
 
