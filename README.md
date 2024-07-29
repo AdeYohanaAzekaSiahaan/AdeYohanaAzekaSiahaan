@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 
-<p>![alt text](https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png?raw=true)
+<img align = "right" alt="ade" width="400" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 <h3 align="center">I am working towards becoming a full-stack developer.</h3>
 
