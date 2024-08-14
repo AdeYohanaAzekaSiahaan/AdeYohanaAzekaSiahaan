@@ -3,13 +3,8 @@
 <img align="center" alt="ade" width="650px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **adeshnn17@gmail.com**
 
-- ⚡ Fun fact **u need to sleep 8 hours a day**
-
-- ✌️ peace bro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
