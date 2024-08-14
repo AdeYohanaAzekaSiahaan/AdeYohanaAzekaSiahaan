@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-<img align="center" alt="ade" width="650px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+<img align="center" alt="ade" width="450px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
 
 
 - 📫 How to reach me **adeshnn17@gmail.com**
