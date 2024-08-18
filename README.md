@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-<img align="center" alt="ade" width="450px" src="https://github.com/AdeYohanaAzekaSiahaan/AdeYohanaAzekaSiahaan/blob/main/Ade%20(1).png">
+<img align="center" alt="ade" width="450px" src="https://github.com/Adshnn/Adshnn/blob/main/Ade%20(1).png">
 
 
 - 📫 How to reach me **adeshnn17@gmail.com**
@@ -16,8 +16,8 @@
 <a href="https://pin.it/4k2GSSbVP" target="blank"><img align="center" src="https://pngimg.com/uploads/pinterest/pinterest_PNG66.png" alt="Pinteresr" height="45" /></a>
 </p>
 
-<p><i class="fa-brands fa-pinterest"></i><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeyohanaazekasiahaan&show_icons=true&locale=en&layout=compact" alt="adeyohanaazekasiahaan" /></p>
+<p><i class="fa-brands fa-pinterest"></i><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adshnn&show_icons=true&locale=en&layout=compact" alt="Adshnn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyohanaazekasiahaan&show_icons=true&locale=en" alt="adeyohanaazekasiahaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adshnn&show_icons=true&locale=en" alt="Adshnn" /></p>
 
 
